@@ -1,0 +1,47 @@
+ #hero {
+     height: 750px;
+     background-color: #929582;
+ }
+
+
+
+ .d-block {
+
+     margin-top: 403px;
+     align-items: center;
+     justify-content: center;
+
+
+ }
+
+ .display-5 {
+     font-family: 'Amatic SC', cursive;
+
+ }
+
+ .display-4 {
+     font-family: 'Amatic SC', cursive;
+
+ }
+
+ .pb-2 {
+     font-family: 'Amatic SC', cursive;
+ }
+
+ .lead {
+     font-family: 'Abel', sans-serif;
+ }
+
+
+
+ .pt-5 {
+     font-family: 'Amatic SC', cursive;
+ }
+
+ .WebJ {
+     font-family: 'Abel', sans-serif;
+ }
+
+ .nav-link1 {
+     text-decoration: none;
+ }
